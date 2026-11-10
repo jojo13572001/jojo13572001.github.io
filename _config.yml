@@ -3,7 +3,7 @@ description: Machine learning & deep learning notes (migrated from Logdown)
 # 目前 repo 名稱是 bean.github.io，屬於「專案網站」，網址為
 # https://jojo13572001.github.io/bean.github.io/
 # 若把 repo 改名為 jojo13572001.github.io，請把 baseurl 改成 ""
-url: "https://jojo13572001.github.io"
+url: ""
 baseurl: "/bean.github.io"
 timezone: Asia/Taipei
 theme: minima
